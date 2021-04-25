@@ -1,0 +1,17 @@
+2 22
+8 12
+4 15 13
+
+Tips: As the locations of the wall are assigned randomly, we cannot have a completely sample input. This input should be renamed as history.txt and store in the same file as the other codes.  The following part is what shall the users do after excueting the code.
+
+H
+S
+2
+A
+1
+S
+2
+W
+2
+E
+Y

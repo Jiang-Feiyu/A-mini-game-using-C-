@@ -1,0 +1,5 @@
+18 11
+8 12
+4 15 13
+
+Tips: Up to this stage, the game hasn't finished yet, because there won't be an output file if there is a winner. This output will be shown as history.txt.
